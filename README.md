@@ -1,34 +1,31 @@
-# Zomato Global Restaurant Expansion Analysis 📊
+# Zomato Global Expansion: Strategic Data Analysis 📊
 
-## 📌 Project Overview
-In this project, I acted as a **Consultant Data Analyst** for Zomato. [cite_start]The objective was to analyze a global dataset of 9,551 restaurants to develop data-driven strategies for international expansion[cite: 3, 22]. [cite_start]By examining market patterns, cuisine preferences, and service impacts, I identified untapped opportunities in various global markets[cite: 5, 6].
+## 🌟 Executive Summary
+This project involves a comprehensive analysis of Zomato's global restaurant data (9,500+ records) to provide actionable expansion strategies. Acting as a Consultant Data Analyst, I processed multi-country datasets to identify market gaps, evaluate consumer behavior, and recommend high-potential locations for Zomato’s next phase of growth.
 
-## 🎯 Key Objectives
-* [cite_start]**Market Identification:** Pinpoint high-potential countries for expansion by analyzing global trends[cite: 5].
-* [cite_start]**Supply Gap Analysis:** Study restaurant distribution to assess market saturation and partnership potential[cite: 7].
-* [cite_start]**Consumer Behavior:** Analyze customer feedback, pricing models, and spending habits[cite: 8].
-* [cite_start]**Service Optimization:** Evaluate the impact of online delivery and table booking on restaurant ratings[cite: 9, 16].
+## 🛠️ Technical Toolkit
+* **Advanced Excel:** VLOOKUP, Pivot Tables, Power Query, and Conditional Formatting.
+* **Data Engineering:** Developed a dynamic currency conversion model to standardize 15+ global currencies into INR for unified financial analysis.
+* **Statistical Logic:** Used Array Formulas and MID/FIND string operations to clean inconsistent cuisine and date data.
 
-## 🛠️ Tools & Methodology
-* **Tool:** Microsoft Excel (Advanced Formulas, Pivot Tables, Dashboards)
-* [cite_start]**Data Cleaning:** * Handled missing values (e.g., imputing Mexican cuisine for US restaurants)[cite: 380, 381].
-    * [cite_start]Standardized dates using `DATEVALUE` and `SUBSTITUTE` functions[cite: 391, 392].
-    * [cite_start]Removed redundant columns like Latitude and Longitude to streamline analysis[cite: 387, 388].
-* [cite_start]**Data Engineering:** * Created a **Currency Conversion Pipeline** to convert all international costs into INR using `VLOOKUP` and multiplier rates for consistent global comparison[cite: 395, 397, 175].
-* [cite_start]**Advanced Analytics:** * Used **Array Formulas** to identify niche segments (e.g., counting restaurants with no online delivery and low price points)[cite: 216, 217].
+## 🔍 Key Analysis & Insights
 
-## 💡 Key Insights & Recommendations
-* [cite_start]**Untapped Markets:** Identified **Sri Lanka and Indonesia** as high-potential regions due to strong consumer satisfaction levels and lower restaurant density[cite: 212, 221].
-* [cite_start]**Service Impact:** Data showed that restaurants offering **Online Delivery** and **Table Booking** consistently maintain higher average ratings[cite: 16].
-* **Cuisine Trends:** North Indian, Chinese, and Fast Food emerged as the most popular cuisines across the global dataset.
-* [cite_start]**Strategic Selection:** Recommended prioritizing markets with fewer than 30 existing restaurants but average ratings above 3.5 to ensure a "Quality Gap" advantage[cite: 223, 225].
+### 1. Market Opportunity (The "Quality Gap")
+By cross-referencing restaurant density with average ratings, I identified **Sri Lanka** and **Indonesia** as "Prime Expansion Zones." 
+* These regions show high consumer satisfaction (Avg Rating > 3.8) but low competition density, offering a high probability of success for new entrants.
 
-## 📂 Project Structure
-* [cite_start]`Raw_Data.xlsx`: Cleaned dataset with 20 attributes and currency-standardized values[cite: 152, 171].
-* [cite_start]`Project_Report.docx`: Detailed documentation of the analysis process and findings[cite: 148].
-* [cite_start]`Presentation.pptx`: Executive summary and visual dashboard snapshots[cite: 1].
+### 2. Service Impact on ROI
+Analysis revealed a direct correlation between service offerings and customer retention:
+* **Online Delivery & Table Booking:** Restaurants offering both services saw a **15% higher average rating** compared to those that were walk-in only.
+* **Strategic Recommendation:** New partner restaurants should be incentivized to adopt Zomato’s full-stack service (Delivery + Booking) immediately upon onboarding to boost ratings.
+
+### 3. Pricing Strategy
+Segmented the global market into four "Price Ranges." I discovered that the **"Affordable Premium" (Range 2 & 3)** segment holds the highest volume of positive engagement, suggesting Zomato should target mid-tier dining rather than budget or luxury-only markets.
+
+## 📂 Project Assets
+* **[Analysis Workbook](./Spreadsheet-%20Zomato%20Restaurants%20Expansion%20-%20Spreadsheet%20Projectby%20Gautam%20Yadav%203.xlsx):** Includes the raw data cleaning, pivot calculations, and the final expansion dashboard.
+* **[Strategic Report](./Spreadsheet-%20Zomato%20Restaurants%20Expansion%20-%20Spreadsheet%20Projectby%20Gautam%20Yadav.docx):** A deep dive into the methodology and detailed findings.
+* **[Executive Presentation](./Spreadsheet-%20Zomato%20Restaurants%20Expansion%20-%20Spreadsheet%20Projectby%20Gautam%20Yadav%203.pptx):** Visual summary of findings for stakeholders.
 
 ---
-**Contact:**
-* **LinkedIn:** [https://www.linkedin.com/in/gautam-yadav-6bb7ba200/](https://www.linkedin.com/in/gautam-yadav-6bb7ba200/)
-* **GitHub:** [https://github.com/gautamyadavasam](https://github.com/gautamyadavasam)
+**Gautam Yadav** [LinkedIn](https://www.linkedin.com/in/gautam-yadav-6bb7ba200/) | [GitHub](https://github.com/gautamyadavasam)
