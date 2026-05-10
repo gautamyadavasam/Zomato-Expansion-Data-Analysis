@@ -22,6 +22,10 @@ Analysis revealed a direct correlation between service offerings and customer re
 ### 3. Pricing Strategy
 Segmented the global market into four "Price Ranges." I discovered that the **"Affordable Premium" (Range 2 & 3)** segment holds the highest volume of positive engagement, suggesting Zomato should target mid-tier dining rather than budget or luxury-only markets.
 
+![Zomato Global Expansion:Dashboard](dashboard%201%20excel.jpeg)
+
+
+
 ## 📂 Project Assets
 * **[Analysis Workbook](./Spreadsheet-%20Zomato%20Restaurants%20Expansion%20-%20Spreadsheet%20Projectby%20Gautam%20Yadav%203.xlsx):** Includes the raw data cleaning, pivot calculations, and the final expansion dashboard.
 * **[Strategic Report](./Spreadsheet-%20Zomato%20Restaurants%20Expansion%20-%20Spreadsheet%20Projectby%20Gautam%20Yadav.docx):** A deep dive into the methodology and detailed findings.
